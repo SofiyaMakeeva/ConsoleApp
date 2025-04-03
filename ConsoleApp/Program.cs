@@ -6,8 +6,8 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            AppManager menu = new AppManager();
-            menu.Work();
+            AppManager manager = new AppManager();
+            manager.Work();
         }
     }
 }
