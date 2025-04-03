@@ -46,7 +46,6 @@
         {
             Console.CursorVisible = false;
 
-
             for (int i = 0; i < _index; i++)
             {
                 Console.WriteLine(_commands[i]);
