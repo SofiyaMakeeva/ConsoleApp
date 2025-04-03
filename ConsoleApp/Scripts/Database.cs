@@ -11,7 +11,7 @@
             _coordinates.Add(new Coordinate());
         }
 
-        public void Showcoordinates()
+        public void ShowCoordinates()
         {
             Console.WriteLine("Координаты");
             Console.WriteLine();
