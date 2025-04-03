@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6E3C02-C809-450E-853D-EA525BC43011}|ConsoleAppTest\\ConsoleAppTest.csproj|c:\\users\\catsandra\\source\\repos\\testconsoleapp\\consoleapptest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6E3C02-C809-450E-853D-EA525BC43011}|ConsoleAppTest\\ConsoleAppTest.csproj|solutionrelative:consoleapptest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|c:\\users\\catsandra\\source\\repos\\testconsoleapp\\testconsoleapp\\scripts\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|solutionrelative:testconsoleapp\\scripts\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|c:\\users\\catsandra\\source\\repos\\testconsoleapp\\testconsoleapp\\scripts\\coordinatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|solutionrelative:testconsoleapp\\scripts\\coordinatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|c:\\users\\catsandra\\source\\repos\\testconsoleapp\\testconsoleapp\\scripts\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|solutionrelative:testconsoleapp\\scripts\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|c:\\users\\catsandra\\source\\repos\\testconsoleapp\\testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|solutionrelative:testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|c:\\users\\catsandra\\source\\repos\\testconsoleapp\\testconsoleapp\\scripts\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|solutionrelative:testconsoleapp\\scripts\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|c:\\users\\catsandra\\source\\repos\\testconsoleapp\\testconsoleapp\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B429F43-BB12-42E0-B57D-7BCF3FFC3384}|TestConsoleApp\\ConsoleApp.csproj|solutionrelative:testconsoleapp\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\ConsoleAppTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\ConsoleAppTest\\UnitTest1.cs",
+              "RelativeToolTip": "ConsoleAppTest\\UnitTest1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:06:44.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coordinate.cs",
+              "DocumentMoniker": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\Coordinate.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp\\Scripts\\Coordinate.cs",
+              "ToolTip": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\Coordinate.cs",
+              "RelativeToolTip": "TestConsoleApp\\Scripts\\Coordinate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:32:25.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Program.cs",
+              "RelativeToolTip": "TestConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:24:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoordinatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\CoordinatesController.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp\\Scripts\\CoordinatesController.cs",
+              "ToolTip": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\CoordinatesController.cs",
+              "RelativeToolTip": "TestConsoleApp\\Scripts\\CoordinatesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:13:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\Database.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp\\Scripts\\Database.cs",
+              "ToolTip": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\Database.cs",
+              "RelativeToolTip": "TestConsoleApp\\Scripts\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:12:58.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\Utility.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp\\Scripts\\Utility.cs",
+              "ToolTip": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\Utility.cs",
+              "RelativeToolTip": "TestConsoleApp\\Scripts\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:11:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppManager.cs",
+              "DocumentMoniker": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\AppManager.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp\\Scripts\\AppManager.cs",
+              "ToolTip": "C:\\Users\\Catsandra\\source\\repos\\TestConsoleApp\\TestConsoleApp\\Scripts\\AppManager.cs",
+              "RelativeToolTip": "TestConsoleApp\\Scripts\\AppManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:09:37.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
