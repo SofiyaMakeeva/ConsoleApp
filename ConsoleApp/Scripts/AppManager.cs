@@ -97,7 +97,7 @@
         private void ShowCoordinates()
         {
             Console.Clear();
-            _controller.ShowCoordinates(_database);
+            _database.ShowCoordinates();
             Console.ReadKey(true);
         }
 
