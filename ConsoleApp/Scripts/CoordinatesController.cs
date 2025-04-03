@@ -23,11 +23,6 @@
             return database.Coordinates;
         }
 
-        public void ShowCoordinates(Database database)
-        {
-            database.Showcoordinates();
-        }
-
         public (double,double) CalculateDistance(Database database)
         {
             int minLength = 2;
